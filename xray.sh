@@ -11,6 +11,7 @@ if ! command -v docker &> /dev/null; then
   echo "Установка Docker..."
   apt update
   apt install -y docker.io
+  apt install qrencode
   systemctl enable --now docker
 fi
 
