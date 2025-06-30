@@ -32,12 +32,12 @@ curl -O https://github.com/Struder6/autoXray/main/xray.sh
 
 2. Дайте права на выполнение:
 ```bash
-chmod +x install-xray-reality.sh
+chmod +x xray.sh
 ```
 
 3. Запустите скрипт:
 ```bash
-sudo ./install-xray-reality.sh
+sudo ./xray.sh
 ```
 
 ## Использование
