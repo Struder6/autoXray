@@ -27,7 +27,7 @@ bash script that allows you to install Xray + REALITY in a blink of an eye
 
 1. Скачайте скрипт установки:
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/xray-reality-docker/main/install-xray-reality.sh
+curl -O https://github.com/Struder6/autoXray/main/xray.sh
 ```
 
 2. Дайте права на выполнение:
@@ -128,6 +128,3 @@ docker-compose up -d
 3. Убедитесь что домен назначения доступен
 4. Проверьте правильность параметров подключения
 
-## Лицензия
-
-Этот проект распространяется под лицензией MIT.
