@@ -27,7 +27,7 @@ bash script that allows you to install Xray + REALITY in a blink of an eye
 
 1. Скачайте скрипт установки:
 ```bash
-curl -O https://github.com/Struder6/autoXray.git
+git clone https://github.com/Struder6/autoXray.git
 ```
 
 2. Дайте права на выполнение:
